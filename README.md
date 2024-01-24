@@ -12,4 +12,5 @@ Um projeto para fins educacionais. Desenvolvido em JavaScript, o Freeway leva co
 - [Documentação de desenvolvimento 2D breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 
 ## 📂 Acesse o projeto
+[Acesse o projeto aqui](https://freeway-nykol.vercel.app/)
 
