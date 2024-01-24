@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+  --branco-principal: #ffffff;
+  --cor-fundo: #133605e0;
+  --cinza-secundario: #C0C0C0;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  color: var(--branco-principal);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Inter;
+}
+
+canvas {
+  border: 10px solid black;
+  border-radius: 10px;
+}
+
+.titulo {
+  font-size: 36px;
+  position: fixed;
+  top: 0;
+  margin: 4em;
+}
+
+.rodape__texto {
+  margin: 1em 0;
+  color: var(--cinza-secundario);
+  font-size: 14px;
+}
+
+.rodape {
+  text-align: center;
+  margin: 7em 3em 2em 3em;
+  position: fixed;
+  bottom: 10px
+}
+
+.gif  {
+  align-items: center;
+  margin: 20px auto;
+  width: 600px;
+}
+
+.container__titulo {
+  text-align: center;
+}
