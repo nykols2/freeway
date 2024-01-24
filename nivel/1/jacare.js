@@ -94,7 +94,7 @@ function redirecionarProximoNivel(){
   if (pontosJogador > 2) { 
     somVitoria.play();
     setTimeout(() => {
-      window.location.href = '../2';
+      window.location.href = '../2/';
     }, 2000);
 
   }

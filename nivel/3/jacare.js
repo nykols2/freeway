@@ -93,7 +93,7 @@ function redirecionarProximoNivel(){
   if (pontosJogador > 0) { 
     somVitoria.play();
     setTimeout(() => {
-      window.location.href = '../vitoria';
+      window.location.href = '../vitoria/';
     }, 2100);
 
   }
@@ -104,7 +104,7 @@ function redirecionarNivelAnterior(){
     pontosJogador = 0
     somDerrota.play();
     setTimeout(() => {
-      window.location.href = '../2';
+      window.location.href = '../2/';
     }, 1000);
   }
 }
