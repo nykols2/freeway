@@ -10,3 +10,6 @@ Um projeto para fins educacionais. Desenvolvido em JavaScript, o Freeway leva co
 - Alura Cursos: Lógica de programação com JavaScript
 - Freeway Game (Atari 2600)
 - [Documentação de desenvolvimento 2D breakout game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
+
+## 📂 Acesse o projeto
+
